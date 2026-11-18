@@ -3,7 +3,7 @@
    "texture_name": "atlas.items",
    "texture_data" : {
       "shield" : {
-         "textures" : "textures/entity/shield_small"
+         "textures" : "textures/entity/shield"
       }
    }
 }
