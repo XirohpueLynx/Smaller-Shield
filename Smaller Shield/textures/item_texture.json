@@ -1,0 +1,8 @@
+{
+   "resource_pack_name" : "xlynx",
+   "texture_data" : {
+      "shield" : {
+         "textures" : "textures/entity/shield_small"
+      }
+   }
+}
