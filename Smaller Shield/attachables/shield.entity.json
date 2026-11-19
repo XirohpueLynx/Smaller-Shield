@@ -25,14 +25,14 @@
       },
       "scripts": {
         "initialize": [
-          "variable.main_hand_first_person_pos_x =  5.3;",
+          "variable.main_hand_first_person_pos_x =  6.4;",
           "variable.main_hand_first_person_pos_y = 26.0;",
-          "variable.main_hand_first_person_pos_z = 0.4;",
+          "variable.main_hand_first_person_pos_z = 2.9;",
           "variable.main_hand_first_person_rot_x = 91.0;",
           "variable.main_hand_first_person_rot_y = 65.0;",
           "variable.main_hand_first_person_rot_z = -43.0;",
-          "variable.off_hand_first_person_pos_x = -13.5;",
-          "variable.off_hand_first_person_pos_y = -5.8;",
+          "variable.off_hand_first_person_pos_x = -14.5;",
+          "variable.off_hand_first_person_pos_y = -7.3;",
           "variable.off_hand_first_person_pos_z = 5.1;",
           "variable.off_hand_first_person_with_bow_pos_z = -25.0;",
           "variable.off_hand_first_person_rot_x = 1.0;",
