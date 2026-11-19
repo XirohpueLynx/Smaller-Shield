@@ -1,9 +1,0 @@
-{
-   "resource_pack_name" : "xlynx",
-   "texture_name": "atlas.items",
-   "texture_data" : {
-      "shield" : {
-         "textures" : "textures/entity/shield"
-      }
-   }
-}
