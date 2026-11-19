@@ -1,11 +1,11 @@
 {
   "format_version": 2,
   "header": {
-    "description": "by XirohpueLynx",
+    "description": "Make the shield model smaller and lower\n§7by XirohpueLynx",
     "name": "Smaller Shield",
     "uuid": "1a99ff1b-88f9-4e46-93a1-667ae06908d1",
-    "version": [ 1, 2, 0 ],
-    "min_engine_version": [ 1, 16, 0 ]
+    "version": [ 1, 3, 0 ],
+    "min_engine_version": [ 1, 26, 60 ]
   },
   "modules": [
     {
@@ -14,5 +14,10 @@
       "uuid": "5820e69f-5471-40ea-ae1e-80ddd89d7ada",
       "version": [ 1, 2, 0 ]
     }
-  ]
+  ],
+    "metadata": {
+        "authors": [ "XirohpueLynx" ],
+        "license": "MIT",
+        "url": "https://github.com/XirohpueLynx/Smaller-Shield"
+    }
 }
